@@ -5,7 +5,7 @@
 ## Overview
 This project is a **DIY Thermal Camera** built using a **Raspberry Pi Zero 2W**, the **MLX90640 thermal sensor**, and a **custom PCB**. It blends visible-light imaging with thermal data to create a functional, cost-effective alternative to expensive commercial FLIR cameras.
 
-📜 **Read the full blog post here:** [How I Built a Thermal Camera from Scratch](https://eliferrara.com/2025/02/11/Thermal_Camera.html)
+📜 **Read the full blog post here:** [How I Built a Thermal Camera from Scratch](https://eliferrara.com/2025/02/15/Thermal_Camera.html)
 
 ## Features
 ✔ **32x24 MLX90640 Thermal Sensor**  
